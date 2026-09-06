@@ -1,0 +1,22 @@
+product_id,product_name,category,unit_cost,unit_price,stock_quantity
+P001,Laptop,Electronics,333.62,564.89,49.0
+P002,Wireless Headphones,Electronics,230.61,348.25,231.0
+P003,Smartphone,Electronics,361.54,508.77,139.0
+P004,Monitor,Electronics,226.41,296.13,
+P005,Keyboard,Electronics,39.85,66.59,209.0
+P006,Mouse,Electronics,132.03,187.1,32.0
+P007,Office Chair,Office,84.46,118.83,35.0
+P008,Desk Lamp,Office,14.49,24.11,190.0
+P009,Notebook Pack,Office,386.59,555.19,183.0
+P010,Printer,Office,273.57,358.33,55.0
+P011,Webcam,Office,169.29,292.74,37.0
+P012,Coffee Maker,Home,349.27,490.89,248.0
+P013,Air Purifier,Home,311.95,499.96,193.0
+P014,Vacuum Cleaner,Home,291.27,365.65,109.0
+P015,Table Fan,Home,100.4,151.86,127.0
+P016,LED Light,Home,81.33,135.67,57.0
+P017,USB-C Cable,Accessories,445.2,680.26,66.0
+P018,Laptop Sleeve,Accessories,445.72,588.71,212.0
+P019,Power Bank,Accessories,206.12,298.11,95.0
+P020,Phone Stand,Accessories,341.86,501.47,38.0
+P021,Bluetooth Speaker,Accessories,215.44,285.53,90.0
